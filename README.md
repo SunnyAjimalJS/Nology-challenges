@@ -1,2 +1,2 @@
 # Nology-challenges
-All my challenges at Nology
+Some of my initial challenges at Nology
